@@ -19,7 +19,7 @@ and [GroupLens](https://grouplens.org/datasets/movielens/latest/).
 I downloaded it from this [Kaggle competition](https://www.kaggle.com/rounakbanik/the-movies-dataset), which is where you can download it too!
 It's about 1 GB and should be placed in a directory called `data`.
 
-The results of the [bracket](https://challonge.com/madness2018) are just put in by hand in the notebook itself.
+The results of the [Filmspotting bracket](https://challonge.com/madness2018) are just put in by hand in the notebook itself.
 
 
 # Run the code
