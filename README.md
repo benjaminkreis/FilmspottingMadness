@@ -11,7 +11,7 @@ If you have conda installed and want to copy my setup exactly (which might be ov
 
 ```
 conda env create -f environment.yml
-``
+```
 
 # The data
 The data used in training is collected from [The Movie Database (TMDb)](https://www.themoviedb.org/?language=en) 
