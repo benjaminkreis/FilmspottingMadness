@@ -8,7 +8,7 @@ This leaves very few training samples, which is not ideal, so other ideas are we
 # To view the current results
 To view the current results, simply click on [fs_notebook.ipynb](https://github.com/benjaminkreis/FilmspottingMadness/blob/master/fs_notebook.ipynb).
 
-# To run the code yourself or collaborate
+# To run the code yourself
 
 ## Dependencies
 The workhorses here are python 3.6, pandas, sci-kit learn, and keras with tensorflow backend.  
