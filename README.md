@@ -27,7 +27,7 @@ It's about 1 GB and should be placed in a directory called `data`.
 The results of the [Filmspotting bracket](https://challonge.com/madness2018) are just put in by hand in the notebook itself.
 
 
-## Run the code
+## Run the notebook
 
 The code is in a jupyter notebook, which you can open with:
 ```
