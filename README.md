@@ -29,4 +29,4 @@ The code is in a jupyter notebook, which you can open with:
 jupyter notebook --ip 127.0.0.1 --port 8899 &
 ```
 
-
+# Collaboration welcome!
